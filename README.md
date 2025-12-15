@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aayush 👋
 
-<!--
-**gumnaam4/gumnaam4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year student | Developer | Problem Solver  
+💻 Focus: Backend, DSA, Web Development  
+🚀 Preparing for GATE 2026 | Building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: C++, Python, JavaScript
+- Backend: Node.js, Express
+- Frontend: React (basic)
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📊 What I’m Working On
+- Solving DSA problems daily (LeetCode)
+- Building scalable backend projects
+- Improving GitHub consistency
+
+---
+
+## 📫 Connect
+- Portfolio: (later)
+- LinkedIn: (optional)
