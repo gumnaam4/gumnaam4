@@ -2,7 +2,7 @@
 
 🎓 Second-year student | Developer | Problem Solver  
 💻 Focus: Backend, DSA, Web Development  
-🚀 Preparing for GATE 2026 | Building real-world projects
+🚀 Building real-world projects
 
 ---
 
