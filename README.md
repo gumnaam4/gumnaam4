@@ -7,16 +7,16 @@
 ---
 
 ## 🛠 Tech Stack
-- Languages: C++, Python, JavaScript
-- Backend: Node.js, Express
-- Frontend: React (basic)
-- Database: MongoDB
+- Languages: Python, c, C++, Java
+- Backend: Python
+- Frontend: HTML, CSS, React (basic)
+- Database: SQl, MySql
 - Tools: Git, GitHub, VS Code
 
 ---
 
 ## 📊 What I’m Working On
-- Solving DSA problems daily (LeetCode)
+- Solving DSA problems (LeetCode)
 - Building scalable backend projects
 - Improving GitHub consistency
 
