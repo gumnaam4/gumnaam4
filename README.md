@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tech Stack
-- Languages: Python, c, C++, Java
+- Languages: Python, C, C++, Java
 - Backend: Python
 - Frontend: HTML, CSS, React (basic)
 - Database: SQl, MySql
