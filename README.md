@@ -24,4 +24,4 @@
 
 ## 📫 Connect
 - Portfolio: (later)
-- LinkedIn: (optional)
+- LinkedIn: (soon)
