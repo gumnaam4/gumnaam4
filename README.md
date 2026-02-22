@@ -66,42 +66,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true" width="60%" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    width="49%" 
+  />
+  
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical&count_private=true&langs_count=8" 
+    width="49%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gumnaam4&theme=radical" width="60%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=gumnaam4&theme=radical&hide_border=true" 
+    width="60%" 
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=react-dark" width="95%" />
-</p>
-
-<p align="center">
-
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-
-  <!-- Top Languages -->
-  <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical&count_private=true&langs_count=8&hide_border=true&cache_seconds=1800" width="48%" />
-
-</p>
-
-<p align="center">
-
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=gumnaam4&theme=radical&hide_border=false" width="60%" />
-
-</p>
-
-<p align="center">
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=react-dark" width="95%" />
-
-</p>
----
 
 ## ✨ Fun Facts
 
