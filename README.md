@@ -66,10 +66,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical" width="48%" />
+
 </p>
 
+<p align="center">
+
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=gumnaam4&theme=radical&hide_border=false" width="60%" />
+
+</p>
+
+<p align="center">
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=react-dark" width="95%" />
+
+</p>
 ---
 
 ## ✨ Fun Facts
