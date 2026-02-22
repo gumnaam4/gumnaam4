@@ -11,7 +11,7 @@
 </p>
 
 <!-- Short intro -->
-<h3 align="center">Full Stack Developer | Learner | Problem Solver</h3>
+<h3 align="center">Problem Solver | Learner | Backend Developr | Equity Market  </h3>
 
 <p align="center">
   🔭 I’m currently working on <strong>DSA Learning & Different Projects</strong><br/>
