@@ -1,6 +1,6 @@
 <!-- Top GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFyazY0dmN6czMxazA1YTZvbm5ld2F6Y2N3a2R5aGprNGRseWJ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif" width="180px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFyazY0dmN6czMxazA1YTZvbm5ld2F6Y2N3a2R5aGprNGRseWJ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif" width="40%" />
 </p>
 
 <!-- Wave Header with Name Inside -->
