@@ -7,9 +7,9 @@
 <h3 align="center">Full Stack Developer | Learner | Problem Solver</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>Web3 & AI Projects</strong><br/>
-  🌱 I’m exploring <strong>Rust, Blockchain & ML</strong><br/>
-  💬 Ask me about <strong>Python • JS • Data Structures</strong><br/>
+  🔭 I’m currently working on <strong>DSA Learning & Different Projects</strong><br/>
+  🌱 I’m exploring <strong>Equity Maket, Backend, etc</strong><br/>
+  💬 Ask me about <strong>Python • Equity Market • Data Structures</strong><br/>
   📫 Connect with me below!
 </p>
 
@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4e&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
