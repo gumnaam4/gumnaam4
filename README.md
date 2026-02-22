@@ -3,13 +3,10 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFyazY0dmN6czMxazA1YTZvbm5ld2F6Y2N3a2R5aGprNGRseWJ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif" width="60%" />
 </p>
 
-<!-- Wave Header with Name Inside -->
+<!-- Neon Typing Name -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,100:6A00F4&height=200&section=header&text=AAYUSH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=AAYUSH" />
 </p>
-
 <!-- Short intro -->
 <h3 align="center">Problem Solver | Learner | Backend Developr | Equity Market  </h3>
 
