@@ -1,16 +1,13 @@
-<!-- Cool Coding GIF -->
+<!-- Top GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
 </p>
 
-<!-- Animated Typing Name -->
+<!-- Wave Header with Name Inside -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Aayush" />
-</p>
-
-<!-- Wave Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,100:6A00F4&height=200&section=header&text=AAYUSH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" 
+  />
 </p>
 
 <!-- Short intro -->
