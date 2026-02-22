@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AAYUSH" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gumnaam4&label=PROFILE+VIEWS&color=6A00F4&style=for-the-badge" />
+</p>
+
 <h3 align="center">
   Problem Solver • Backend Developer • Equity Market Enthusiast
 </h3>
