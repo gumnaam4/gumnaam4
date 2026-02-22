@@ -1,6 +1,16 @@
-<!-- Header animation -->
+<!-- Cool Coding GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%2C%20I%27m%20%5BAayush%20%5D!%20👋" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120px">
+</p>
+
+<!-- Animated Typing Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Aayush" />
+</p>
+
+<!-- Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 </p>
 
 <!-- Short intro -->
