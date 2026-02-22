@@ -1,6 +1,6 @@
 <!-- Header animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%2C%20I%27m%20%5BYour%20Name%5D!%20👋" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%2C%20I%27m%20%5BAayush%20%5D!%20👋" />
 </p>
 
 <!-- Short intro -->
