@@ -84,12 +84,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
     width="49%" 
   />
   
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical&count_private=true&cache_seconds=1800" 
     width="49%" 
   />
 </p>
@@ -100,14 +100,13 @@
     width="60%" 
   />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=react-dark&hide_border=true" width="95%" />
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gumnaam4&label=PROFILE+VIEWS&color=6A00F4&style=for-the-badge" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=react-dark&hide_border=true" 
+    width="95%" 
+  />
 </p>
-
 ---
 
 ## ✨ Fun Facts
