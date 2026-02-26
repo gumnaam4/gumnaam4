@@ -25,7 +25,7 @@
 
 ## 🔗 Connect With Me
   
-  <a href="https://instagram.com/YourInstagramUsername">
+  <a href="https://instagram.com/gumnaam.41">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
@@ -33,7 +33,7 @@
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ad5909@srmist.edu.in">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
