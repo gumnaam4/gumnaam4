@@ -2,7 +2,7 @@
 
 <!-- Large Developer GIF -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl4Z2FzNGh0YTNxZDYwaHRvcWZkczd3c2F6bzZpNTBoOWNyd21hZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ViHG6N1Zhq1A7tDwbF/giphy.gif" width="45%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhqaGZieHpla3kzb2h4OTdpbWp3cjY3MnE1MGwzdW93N2ZkYm9sciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="45%" />
 </p>
 
 <!-- Pixel / Retro Typing Name -->
