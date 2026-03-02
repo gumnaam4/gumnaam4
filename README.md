@@ -23,23 +23,6 @@
 
 ---
 
-## 🔗 Connect With Me
- <p align="center">
-  <a href="https://instagram.com/gumnaam.41">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://yourwebsite.com">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:ad5909@srmist.edu.in">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Skills
 
 <p align="center">
@@ -102,6 +85,23 @@
     width="95%" 
   />
 </p>
+---
+
+## 🔗 Connect With Me
+ <p align="center">
+  <a href="https://instagram.com/gumnaam.41">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://yourwebsite.com">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:ad5909@srmist.edu.in">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## ✨ Fun Facts
