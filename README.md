@@ -65,12 +65,14 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
-    width="49%" 
+    width="48%" 
+    alt="GitHub Stats"
   />
   
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical&count_private=true&cache_seconds=1800" 
-    width="49%" 
+    width="48%" 
+    alt="Top Languages"
   />
 </p>
 
@@ -78,16 +80,46 @@
   <img 
     src="https://streak-stats.demolab.com?user=gumnaam4&theme=radical&hide_border=true" 
     width="60%" 
+    alt="GitHub Streak"
   />
 </p>
-
----
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=react-dark&hide_border=true" 
     width="95%" 
+    alt="Activity Graph"
   />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=gumnaam4&theme=radical&no-frame=true&column=4" 
+    width="90%" 
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🎯 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/gumnaam05?theme=dark&font=ubuntu" 
+      width="60%" 
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://leetcode.com/u/gumnaam05/" style="color: #FFB700; text-decoration: none; font-size: 16px;">
+      🔗 View Full LeetCode Profile
+    </a>
+  </strong>
 </p>
 
 ---
