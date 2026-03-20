@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AAYUSH" />
 </p>
 
-<h3 align="center" class="subtitle-animation">
+<h3 align="center">
   Problem Solver • Backend Developer • Equity Market Enthusiast
 </h3>
 
@@ -121,4 +121,3 @@
 <p align="center">
   <i>Thanks for visiting — let’s build something amazing! 🚀</i>
 </p>
-</div> <!-- end content-reveal -->
