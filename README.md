@@ -92,27 +92,9 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=gumnaam4&theme=radical&no-frame=true&column=4" 
-    width="90%" 
-    alt="GitHub Trophies"
-  />
-</p>
-
 ---
 
-## 🎯 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
-    <img 
-      src="https://leetcard.jacoblin.cool/gumnaam05?theme=dark&font=ubuntu" 
-      width="60%" 
-      alt="LeetCode Stats"
-    />
-  </a>
-</p>
 
 ### � LeetCode Consistency Graph
 
