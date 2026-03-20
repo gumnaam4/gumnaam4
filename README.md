@@ -96,36 +96,16 @@
 
 
 
-### � LeetCode Consistency Graph
+## 🎯 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
     <img 
-      src="https://leetcode-stats-api.herokuapp.com/api?username=gumnaam05&show=problems,recent,medals" 
-      width="70%" 
-      alt="LeetCode Consistency Graph"
+      src="https://leetcard.jacoblin.cool/gumnaam05?theme=dark&font=ubuntu" 
+      width="60%" 
+      alt="LeetCode Stats"
     />
   </a>
-</p>
-
-<div align="center">
-
-| 🏆 Metric | 📊 Details |
-|-----------|-----------|
-| **Consistency Tracker** | [Daily Streak Calendar](https://leetcode.com/u/gumnaam05/) |
-| **Problem Categories** | Easy • Medium • Hard |
-| **Languages Used** | Python • Java • C++ • JavaScript |
-| **Current Streak** | 🔥 View on LeetCode |
-| **Total Submissions** | [Check Profile](https://leetcode.com/u/gumnaam05/) |
-
-</div>
-
-<p align="center">
-  <strong>
-    <a href="https://leetcode.com/u/gumnaam05/" style="color: #FFB700; text-decoration: none; font-size: 16px;">
-      🔗 View Full LeetCode Profile with Consistency Calendar
-    </a>
-  </strong>
 </p>
 
 ---
