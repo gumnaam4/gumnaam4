@@ -114,34 +114,34 @@
   </a>
 </p>
 
-### 📅 LeetCode Consistency Calendar
+### � LeetCode Consistency Graph
 
 <p align="center">
   <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
     <img 
-      src="https://leetcode-stats-api.herokuapp.com/api?username=gumnaam05" 
+      src="https://leetcode-stats-api.herokuapp.com/api?username=gumnaam05&show=problems,recent,medals" 
       width="70%" 
-      alt="LeetCode Consistency"
+      alt="LeetCode Consistency Graph"
     />
   </a>
 </p>
 
 <div align="center">
 
-| 🏆 Metric | 💯 Value |
-|-----------|---------|
-| **Total Solved** | [View on LeetCode](https://leetcode.com/u/gumnaam05/) |
-| **Difficulty** | Easy • Medium • Hard |
-| **Languages** | Python • Java • C++ • JavaScript |
-| **Consistency** | Daily Grind 🔥 |
-| **Profile** | [🔗 Visit LeetCode](https://leetcode.com/u/gumnaam05/) |
+| 🏆 Metric | 📊 Details |
+|-----------|-----------|
+| **Consistency Tracker** | [Daily Streak Calendar](https://leetcode.com/u/gumnaam05/) |
+| **Problem Categories** | Easy • Medium • Hard |
+| **Languages Used** | Python • Java • C++ • JavaScript |
+| **Current Streak** | 🔥 View on LeetCode |
+| **Total Submissions** | [Check Profile](https://leetcode.com/u/gumnaam05/) |
 
 </div>
 
 <p align="center">
   <strong>
     <a href="https://leetcode.com/u/gumnaam05/" style="color: #FFB700; text-decoration: none; font-size: 16px;">
-      🔗 View Full LeetCode Profile & Calendar
+      🔗 View Full LeetCode Profile with Consistency Calendar
     </a>
   </strong>
 </p>
