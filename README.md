@@ -116,7 +116,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
-  <a href="https://yourwebsite.com">
+  <a href="https://gumnaam4.github.io/PortfolioAayush">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   
