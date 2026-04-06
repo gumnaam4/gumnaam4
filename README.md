@@ -132,7 +132,7 @@
 - 💡 I enjoy building practical, real-world solutions.
 - ♟️ Chess sharpens my strategic thinking.  
 - 📈 Passionate about Equity & Financial Markets.
-- 🚀 Committed to continuous growth.
+- 🚀 Committed to continuous growth......
 
 ---
 
