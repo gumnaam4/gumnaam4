@@ -7,7 +7,7 @@
 
 <!-- Pixel / Retro Typing Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=aAyUsH" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AAYUSH" />
 </p>
 
 <h3 align="center">
