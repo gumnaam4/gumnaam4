@@ -299,7 +299,7 @@ $ learning --status
 <br/>
 
 <!-- FOOTER BOX -->
-<div align="center">
+<div align="right">
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
