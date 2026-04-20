@@ -1,251 +1,319 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    AAYUSH — GITHUB PROFILE                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                  AAYUSH — GITHUB PROFILE v2.0                -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00f7ff,100:7b2ff7&height=200&section=header&text=AAYUSH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Market%20Enthusiast&descAlignY=58&descSize=18&descColor=00f7ff" width="100%" />
+<!-- TOP BANNER — VORTEX STYLE -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060010,30:0d0030,60:00f7ff22,100:7b2ff744&height=220&section=header&reversal=false&animation=twinkling" width="100%"/>
 
 </div>
 
-<!-- PIXELATED NAME -->
+<!-- ░░ PIXEL NAME — LETTER BY LETTER ANIMATION ░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=99999&pause=99999&color=00F7FF&center=true&vCenter=true&width=700&lines=AAYUSH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=42&duration=180&pause=2800&color=00F7FF&background=00000000&center=true&vCenter=true&width=750&height=90&lines=A;AA;AAY;AAYU;AAYUS;AAYUSH" alt="Pixel Name Animation" />
 </p>
 
-<!-- SUBTITLE TYPING ANIMATION -->
+<!-- GLITCH SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7b2ff7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=⚡+Building+Scalable+Backend+Systems;📈+Decoding+Equity+Markets;🧠+Mastering+DSA+Daily;🚀+Turning+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=7B2FF7&center=true&vCenter=true&width=650&lines=+>>+Backend+Developer;+>>+DSA+Problem+Solver;+>>+Equity+Market+Enthusiast;+>>+Open+Source+Explorer" alt="Subtitle" />
 </p>
 
-<!-- PROFILE BADGES ROW -->
+<!-- STATUS BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gumnaam4&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=gumnaam4&style=for-the-badge&color=00f7ff&labelColor=060010&label=👁+VISITORS" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/gumnaam4?style=for-the-badge&color=7b2ff7&labelColor=0a0a0f&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/gumnaam4?style=for-the-badge&color=7b2ff7&labelColor=060010&label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Backend_Development-00f7ff?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge&labelColor=060010" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Lives-India🇮🇳-7b2ff7?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/BASE-INDIA_🇮🇳-ff6b35?style=for-the-badge&labelColor=060010" />
 </p>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
+<br/>
+
+<!-- ██ SECTION: WHO AM I ██ -->
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding gif"/>
+
+### `$ whoami`
+
+```yaml
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   NAME      :  Aayush                               │
+│   ALIAS     :  gumnaam4                             │
+│   ROLE      :  Backend Developer + Market Analyst   │
+│   UNIVERSITY:  SRMIST                               │
+│   LOCATION  :  India  🇮🇳                           │
+│                                                     │
+│   STATUS    :  [▓▓▓▓▓▓▓▓░░]  Leveling Up...        │
+│                                                     │
+│   FOCUS     :  DSA • Django • Equity Markets        │
+│   FUN FACT  :  I debug code & market charts both 📈 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### `$ ./skills --list`
 
 ```python
-class Aayush:
-    
-    name        = "Aayush"
-    alias       = "gumnaam4"
-    university  = "SRMIST"
-    location    = "India 🇮🇳"
-    
-    skills      = ["Python", "Django", "SQL", "DSA", "C++", "Java"]
-    interests   = ["Backend Dev", "Equity Markets", "Chess", "Open Source"]
-    
-    currently   = {
-        "learning"  : ["Advanced DSA", "System Design", "Django REST"],
-        "building"  : ["Real-World Projects", "Portfolio"],
-        "reading"   : ["Market Charts 📈", "Tech Blogs 🖥️"]
-    }
-    
-    fun_fact    = "I treat bugs like chess puzzles — every problem has a move 🧩"
+languages  = { "Expert": ["Python", "C++"],
+               "Strong": ["Java", "C", "SQL"],
+               "Growing": ["JavaScript", "HTML/CSS"] }
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something legendary. 🚀")
+frameworks = ["Django", "Django REST Framework"]
+databases  = ["MySQL", "PostgreSQL"]
+tools      = ["Git", "GitHub", "VS Code", "Vercel", "Linux"]
+interests  = ["System Design", "Open Source", "Equity Markets", "Chess ♟️"]
 
-me = Aayush()
-me.say_hi()
+print("Thanks for visiting! Let's ship something great 🚀")
 ```
 
-<br/>
+<br clear="right"/>
 
----
-
-<!-- SKILLS SECTION -->
-## 🛠️ &nbsp; Tech Arsenal
-
-<p align="center">
-
-### 🔤 Languages
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css&theme=dark&perline=7" />
-
-### 🧱 Frameworks & Databases
-<br/>
-<img src="https://skillicons.dev/icons?i=django,mysql,postgresql&theme=dark&perline=7" />
-
-### 🧰 Tools & Platforms
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=dark&perline=7" />
-
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
----
+<!-- ██ SECTION: TECH STACK ██ -->
 
-<!-- GITHUB STATS -->
-## 📊 &nbsp; GitHub Battle Stats
+<h2 align="center">⚡ TECH ARSENAL ⚡</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&hide_border=false&border_color=00f7ff&title_color=00f7ff&icon_color=7b2ff7&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&border_color=00f7ff&title_color=00f7ff&cache_seconds=1800" width="42%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gumnaam4&theme=tokyonight&hide_border=false&border=00f7ff&stroke=00f7ff&ring=7b2ff7&fire=ff6b35&currStreakLabel=00f7ff&border_radius=12" width="60%" />
-</p>
-
-<br/>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏆 &nbsp; Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gumnaam4&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
-</p>
-
-<br/>
-
----
-
-## 🐍 &nbsp; Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gumnaam4/gumnaam4/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation" />
-</p>
-
-> 💡 _If the snake isn't showing, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your repo!_
-
-<br/>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 &nbsp; Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=tokyo-night&hide_border=false&border_color=00f7ff&point=7b2ff7&line=00f7ff&area=true&area_color=00f7ff" width="97%" />
-</p>
-
-<br/>
-
----
-
-<!-- LEETCODE -->
-## ⚔️ &nbsp; LeetCode Arena
-
-<p align="center">
-  <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/gumnaam05?theme=dark&font=Fira+Code&border=1&radius=12&ext=contest" width="55%" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-gumnaam05-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e" />
-</p>
-
-<br/>
-
----
-
-<!-- WHAT I'M UP TO -->
-## 🎯 &nbsp; Current Focus
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 📚 Currently Learning
-```
-▶ Data Structures & Algorithms  ████████░░  80%
-▶ Django REST Framework         ██████░░░░  60%
-▶ System Design Basics          ████░░░░░░  40%
-▶ Equity Market Analysis        ███████░░░  70%
-▶ SQL Optimization              █████░░░░░  50%
-```
+**🔤 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark&perline=4" /><br/>
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark&perline=4" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🚀 Goals for 2025
-- [ ] 🏅 Solve **300+** LeetCode problems  
-- [ ] 🔧 Build & deploy **3** full-stack projects  
-- [ ] 📊 Launch a **market analytics** tool  
-- [ ] 🤝 Contribute to **open source**  
-- [ ] 💼 Land an impactful **internship/role**  
+**🧱 Frameworks & DB**
+
+<img src="https://skillicons.dev/icons?i=django,mysql,postgresql&theme=dark&perline=4" />
+
+</td>
+<td align="center" width="33%">
+
+**🧰 Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=4" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,postman&theme=dark&perline=4" />
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
----
+<div align="center">
 
-<!-- FUN FACTS -->
-## ⚡ &nbsp; Fun Facts & Vibes
+```
+╔══════════════════════════════════════════════════════╗
+║               ⚡  SKILL PROFICIENCY                  ║
+╠══════════════════════════════════════════════════════╣
+║  Python      ████████████████████░░░  90%  🔥        ║
+║  DSA         ██████████████████░░░░░  80%  ⚡        ║
+║  Django      ███████████████░░░░░░░░  70%  🚀        ║
+║  SQL / DB    ██████████████████░░░░░  80%  💾        ║
+║  C / C++     ████████████████░░░░░░░  75%  ⚙️        ║
+║  Eq. Markets ███████████████████░░░░  85%  📈        ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ██ SECTION: GITHUB STATS ██ -->
+
+<h2 align="center">📊 GITHUB COMMAND CENTER 📊</h2>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&border_color=00f7ff&title_color=00f7ff&icon_color=7b2ff7&text_color=ffffff&bg_color=060010&cache_seconds=1800&custom_title=Aayush's+Battle+Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=tokyonight&border_radius=10&border_color=00f7ff&title_color=00f7ff&text_color=ffffff&bg_color=060010&cache_seconds=1800&langs_count=8" width="43%" />
+</p>
 
-| 🔢 | Fact |
-|:--:|------|
-| ♟️ | Chess player — I see code bugs like opponent moves |
-| 📈 | Equity markets are my second screen, always |
-| 🌙 | Best ideas hit at 2AM (classic developer schedule) |
-| 🧠 | Believe DSA is the gym for your programming brain |
-| 🎯 | "First, solve the problem. Then, write the code." |
-| 🚀 | Every project is a launchpad, not just a repo |
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gumnaam4&theme=tokyonight&border=00f7ff&stroke=7b2ff7&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=7b2ff7&background=060010&border_radius=10&dates=888888" width="56%"/>
 </p>
 
 <br/>
 
----
-
-<!-- CONNECT SECTION -->
-## 🌐 &nbsp; Let's Connect & Collaborate
+<h2 align="center">🏆 TROPHY CABINET 🏆</h2>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gumnaam4&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%"/>
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ██ SECTION: CONTRIBUTION ACTIVITY ██ -->
+
+<h2 align="center">📈 CONTRIBUTION GRAPH 📈</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&bg_color=060010&color=00f7ff&line=7b2ff7&point=ffffff&area=true&area_color=00f7ff&border_color=00f7ff&hide_border=false&radius=12" width="97%" />
+</p>
+
+<h2 align="center">🐍 EATING MY CONTRIBUTIONS 🐍</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gumnaam4/gumnaam4/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</p>
+
+> 💡 *Enable the snake: add [Platane/snk](https://github.com/Platane/snk) GitHub Action to your repo.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ██ SECTION: LEETCODE ██ -->
+
+<h2 align="center">⚔️ LEETCODE ARENA ⚔️</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/gumnaam05?theme=dark&font=Share+Tech+Mono&border=1&radius=12&ext=contest&width=500" width="52%" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚔️_LeetCode-gumnaam05-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=060010" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯_Goal-300+_Problems-00f7ff?style=for-the-badge&labelColor=060010" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ██ SECTION: CURRENT MISSION ██ -->
+
+<h2 align="center">🎯 CURRENT MISSION 🎯</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Loading Modules...
+```bash
+$ learning --status
+
+[✓] Python Advanced      ████████░░  80%
+[✓] DSA Mastery          ████████░░  80%
+[~] Django REST API      ██████░░░░  60%
+[~] System Design        ████░░░░░░  40%
+[~] Equity Analysis      ███████░░░  70%
+[~] SQL Optimization     █████░░░░░  50%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Mission Checklist 2025
+```
+[ ] 🏅 Solve 300+ LeetCode problems
+[ ] 🔧 Deploy 3 full-stack projects
+[ ] 📊 Build market analytics tool
+[ ] 🤝 Contribute to open source
+[ ] 💼 Secure impactful internship/role
+[ ] 🌐 Grow developer network globally
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ██ SECTION: FUN FACTS ██ -->
+
+<h2 align="center">🌌 RANDOM.EXE 🌌</h2>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ♟️   Chess player — bugs are just moves waiting to be countered │
+│  📈   Equity markets = second terminal, always open             │
+│  🌙   2AM is when the cleanest code gets written                │
+│  🧠   DSA is weight training for your programming brain         │
+│  🔍   "First solve the problem, then write the code"            │
+│  🚀   Every repo is a launchpad, not just a folder              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ██ SECTION: CONNECT ██ -->
+
+<h2 align="center">🌐 OPEN FOR CONNECTION 🌐</h2>
+
+<p align="center">
 <a href="https://gumnaam4.github.io/PortfolioAayush" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f7ff?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Launch_Site-00f7ff?style=for-the-badge&labelColor=060010" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:ad5909@srmist.edu.in">
-  <img src="https://img.shields.io/badge/📧_Email-Reach_Out-7b2ff7?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/📧_Email-Drop_A_Line-7b2ff7?style=for-the-badge&labelColor=060010" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://instagram.com/gumnaam.41" target="_blank">
-  <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/📸_Instagram-Follow_Me-E4405F?style=for-the-badge&labelColor=060010" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
-  <img src="https://img.shields.io/badge/⚔️_LeetCode-Challenge_Me-FFA116?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/⚔️_LeetCode-Duel_Me-FFA116?style=for-the-badge&labelColor=060010" />
 </a>
-
 </p>
 
 <br/>
 
----
-
-<!-- QUOTE -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="72%"/>
 </p>
 
 <br/>
+
+<!-- FOOTER BOX -->
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║       "Code is not just syntax — it's structured thought"      ║
+║                                                                ║
+║                  — Aayush  (gumnaam4)  🚀                     ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00f7ff,100:0a0a0f&height=120&section=footer&text=Let%27s+Build+Something+Legendary+🚀&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7b2ff7,50:00f7ff,100:060010&height=130&section=footer&text=Let's+Build+Something+Legendary&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
