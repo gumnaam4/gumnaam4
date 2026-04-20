@@ -1,141 +1,246 @@
-<!-- ===================== TOP SECTION ===================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    AAYUSH — GITHUB PROFILE                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Space Universe Hero - Animated GIF -->
+<div align="center">
+
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00f7ff,100:7b2ff7&height=200&section=header&text=AAYUSH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Market%20Enthusiast&descAlignY=58&descSize=18&descColor=00f7ff" width="100%" />
+
+</div>
+
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhqaGZieHpla3kzb2h4OTdpbWp3cjY3MnE1MGwzdW93N2ZkYm9sciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="50%" alt="Universe Dive Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=⚡+Building+Scalable+Backend+Systems;📈+Decoding+Equity+Markets;🧠+Mastering+DSA+Daily;🚀+Turning+Ideas+into+Reality" />
 </p>
 
-<!-- Pixel / Retro Typing Name -->
+<!-- PROFILE BADGES ROW -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AAYUSH" />
+  <img src="https://komarev.com/ghpvc/?username=gumnaam4&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/gumnaam4?style=for-the-badge&color=7b2ff7&labelColor=0a0a0f&label=FOLLOWERS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Backend_Development-00f7ff?style=for-the-badge&labelColor=0a0a0f" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lives-India🇮🇳-7b2ff7?style=for-the-badge&labelColor=0a0a0f" />
 </p>
 
-<h3 align="center">
-  Problem Solver • Backend Developer • Equity Market Enthusiast
-</h3>
-
-<p align="center">
-  🔭 Currently working on <strong>DSA & Real-World Projects</strong><br/>
-  🌱 Exploring <strong>Backend Development & Equity Markets</strong><br/>
-  💬 Ask me about <strong>Python • Data Structures • Markets</strong><br/>
-  📫 Open to collaboration & learning opportunities
-</p>
+<br/>
 
 ---
 
-## 🛠️ Skills
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
-<p align="center">
+```python
+class Aayush:
+    
+    name        = "Aayush"
+    alias       = "gumnaam4"
+    university  = "SRMIST"
+    location    = "India 🇮🇳"
+    
+    skills      = ["Python", "Django", "SQL", "DSA", "C++", "Java"]
+    interests   = ["Backend Dev", "Equity Markets", "Chess", "Open Source"]
+    
+    currently   = {
+        "learning"  : ["Advanced DSA", "System Design", "Django REST"],
+        "building"  : ["Real-World Projects", "Portfolio"],
+        "reading"   : ["Market Charts 📈", "Tech Blogs 🖥️"]
+    }
+    
+    fun_fact    = "I treat bugs like chess puzzles — every problem has a move 🧩"
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Equity_Market-1E8449?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something legendary. 🚀")
 
-</p>
+me = Aayush()
+me.say_hi()
+```
 
----
-
-## 🔧 Frameworks & 💻 Tools
-<p align="center">
-  
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Dev C++" src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
-</p>
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<!-- SKILLS SECTION -->
+## 🛠️ &nbsp; Tech Arsenal
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
-    width="48%" 
-    alt="GitHub Stats"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=radical&count_private=true&cache_seconds=1800" 
-    width="48%" 
-    alt="Top Languages"
-  />
+
+### 🔤 Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css&theme=dark&perline=7" />
+
+### 🧱 Frameworks & Databases
+<br/>
+<img src="https://skillicons.dev/icons?i=django,mysql,postgresql&theme=dark&perline=7" />
+
+### 🧰 Tools & Platforms
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=dark&perline=7" />
+
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=gumnaam4&theme=radical&hide_border=true" 
-    width="60%" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=react-dark&hide_border=true" 
-    width="95%" 
-    alt="Activity Graph"
-  />
-</p>
+<br/>
 
 ---
 
+<!-- GITHUB STATS -->
+## 📊 &nbsp; GitHub Battle Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gumnaam4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&hide_border=false&border_color=00f7ff&title_color=00f7ff&icon_color=7b2ff7&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumnaam4&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&border_color=00f7ff&title_color=00f7ff&cache_seconds=1800" width="42%" />
+</p>
 
-## 🎯 LeetCode Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gumnaam4&theme=tokyonight&hide_border=false&border=00f7ff&stroke=00f7ff&ring=7b2ff7&fire=ff6b35&currStreakLabel=00f7ff&border_radius=12" width="60%" />
+</p>
+
+<br/>
+
+---
+
+<!-- GITHUB TROPHIES -->
+## 🏆 &nbsp; Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gumnaam4&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+</p>
+
+<br/>
+
+---
+
+## 🐍 &nbsp; Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gumnaam4/gumnaam4/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation" />
+</p>
+
+> 💡 _If the snake isn't showing, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your repo!_
+
+<br/>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 &nbsp; Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gumnaam4&theme=tokyo-night&hide_border=false&border_color=00f7ff&point=7b2ff7&line=00f7ff&area=true&area_color=00f7ff" width="97%" />
+</p>
+
+<br/>
+
+---
+
+<!-- LEETCODE -->
+## ⚔️ &nbsp; LeetCode Arena
 
 <p align="center">
   <a href="https://leetcode.com/u/gumnaam05/" target="_blank">
-    <img 
-      src="https://leetcard.jacoblin.cool/gumnaam05?theme=dark&font=ubuntu" 
-      width="60%" 
-      alt="LeetCode Stats"
-    />
+    <img src="https://leetcard.jacoblin.cool/gumnaam05?theme=dark&font=Fira+Code&border=1&radius=12&ext=contest" width="55%" alt="LeetCode Stats" />
   </a>
 </p>
-
----
-
-## 🔗 Connect With Me
- <p align="center">
-  <a href="https://instagram.com/gumnaam.41">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://gumnaam4.github.io/PortfolioAayush">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:ad5909@srmist.edu.in">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ✨ Fun Facts
-
-- 💡 I enjoy building practical, real-world solutions.
-- ♟️ Chess sharpens my strategic thinking.  
-- 📈 Passionate about Equity & Financial Markets.
-- 🚀 Committed to continuous growth......
-
----
 
 <p align="center">
-  <i>Thanks for visiting — let’s build something amazing! 🚀</i>
+  <img src="https://img.shields.io/badge/LeetCode-gumnaam05-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e" />
 </p>
+
+<br/>
+
+---
+
+<!-- WHAT I'M UP TO -->
+## 🎯 &nbsp; Current Focus
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+```
+▶ Data Structures & Algorithms  ████████░░  80%
+▶ Django REST Framework         ██████░░░░  60%
+▶ System Design Basics          ████░░░░░░  40%
+▶ Equity Market Analysis        ███████░░░  70%
+▶ SQL Optimization              █████░░░░░  50%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Goals for 2025
+- [ ] 🏅 Solve **300+** LeetCode problems  
+- [ ] 🔧 Build & deploy **3** full-stack projects  
+- [ ] 📊 Launch a **market analytics** tool  
+- [ ] 🤝 Contribute to **open source**  
+- [ ] 💼 Land an impactful **internship/role**  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- FUN FACTS -->
+## ⚡ &nbsp; Fun Facts & Vibes
+
+<p align="center">
+
+| 🔢 | Fact |
+|:--:|------|
+| ♟️ | Chess player — I see code bugs like opponent moves |
+| 📈 | Equity markets are my second screen, always |
+| 🌙 | Best ideas hit at 2AM (classic developer schedule) |
+| 🧠 | Believe DSA is the gym for your programming brain |
+| 🎯 | "First, solve the problem. Then, write the code." |
+| 🚀 | Every project is a launchpad, not just a repo |
+
+</p>
+
+<br/>
+
+---
+
+<!-- CONNECT SECTION -->
+## 🌐 &nbsp; Let's Connect & Collaborate
+
+<p align="center">
+
+<a href="https://gumnaam4.github.io/PortfolioAayush" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f7ff?style=for-the-badge&labelColor=0a0a0f" />
+</a>
+&nbsp;
+<a href="mailto:ad5909@srmist.edu.in">
+  <img src="https://img.shields.io/badge/📧_Email-Reach_Out-7b2ff7?style=for-the-badge&labelColor=0a0a0f" />
+</a>
+&nbsp;
+<a href="https://instagram.com/gumnaam.41" target="_blank">
+  <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&labelColor=0a0a0f" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/gumnaam05/" target="_blank">
+  <img src="https://img.shields.io/badge/⚔️_LeetCode-Challenge_Me-FFA116?style=for-the-badge&labelColor=0a0a0f" />
+</a>
+
+</p>
+
+<br/>
+
+---
+
+<!-- QUOTE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%" />
+</p>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00f7ff,100:0a0a0f&height=120&section=footer&text=Let%27s+Build+Something+Legendary+🚀&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
