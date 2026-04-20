@@ -9,9 +9,14 @@
 
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- PIXELATED NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=⚡+Building+Scalable+Backend+Systems;📈+Decoding+Equity+Markets;🧠+Mastering+DSA+Daily;🚀+Turning+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=99999&pause=99999&color=00F7FF&center=true&vCenter=true&width=700&lines=AAYUSH" />
+</p>
+
+<!-- SUBTITLE TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7b2ff7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=⚡+Building+Scalable+Backend+Systems;📈+Decoding+Equity+Markets;🧠+Mastering+DSA+Daily;🚀+Turning+Ideas+into+Reality" />
 </p>
 
 <!-- PROFILE BADGES ROW -->
