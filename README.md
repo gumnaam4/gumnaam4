@@ -229,7 +229,7 @@ $ learning --status
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Mission Checklist 2025
+### 🚀 Mission Checklist 2026
 ```
 [ ] 🏅 Solve 300+ LeetCode problems
 [ ] 🔧 Deploy 3 full-stack projects
