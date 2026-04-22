@@ -271,7 +271,7 @@ $ learning --status
 
 <!-- ██ SECTION: CONNECT ██ -->
 
-<h2 align="center">🌐 OPEN FOR CONNECTION 🌐</h2>
+<h2 align="center">🌐 OPEN for CONNECTION 🌐</h2>
 
 <p align="center">
 <a href="https://gumnaam4.github.io/PortfolioAayush" target="_blank">
