@@ -12,7 +12,7 @@
 
 <!-- ░░ PIXEL NAME — LETTER BY LETTER ANIMATION ░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=42&duration=180&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=750&height=90&lines=A;AA;AAY;AAYU;AAYUS;aayush" alt="Pixel Name Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=42&duration=180&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=750&height=90&lines=A;AA;AAY;AAYU;AAYUS;AAYUSH" alt="Pixel Name Animation" />
 </p>
 
 <!-- GLITCH SUBTITLE -->
