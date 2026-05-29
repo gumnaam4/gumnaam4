@@ -50,7 +50,7 @@
 │   ALIAS     :  gumnaam4                             │
 │   ROLE      :  Backend Developer + Market Analyst   │
 │   UNIVERSITY:  SRMIST                               │
-│   LOCATION  :  India  🇮🇳                           │
+│   LOCATION  :  India                                │
 │                                                     │
 │   STATUS    :  [▓▓▓▓▓▓▓▓░░]  Leveling Up...        │
 │                                                     │
