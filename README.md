@@ -50,9 +50,9 @@
 │   ALIAS     :  gumnaam4                             │
 │   ROLE      :  Backend Developer + Market Analyst   │
 │   UNIVERSITY:  SRMIST                               │
-│   LOCATION  :  India                                │
+│   LOCATION  :  India  IN                            │
 │                                                     │
-│   STATUS    :  [▓▓▓▓▓▓▓▓░░]  Leveling Up...        │
+│   STATUS    :  [▓▓▓▓▓▓▓▓░░]  Leveling Up...         │
 │                                                     │
 │   FOCUS     :  DSA • Django • Equity Markets        │
 │   FUN FACT  :  I debug code & market charts both 📈 │
