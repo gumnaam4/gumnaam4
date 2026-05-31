@@ -47,7 +47,7 @@
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
 │   NAME      :  Aayush                               │
-│   ALIAS     :  gumnaam4                             │
+│   ALIAS     :  gumnaam                              │
 │   ROLE      :  Backend Developer + Market Analyst   │
 │   UNIVERSITY:  SRMIST                               │
 │   LOCATION  :  India  IN                            │
